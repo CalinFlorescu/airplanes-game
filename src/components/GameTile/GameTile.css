@@ -1,0 +1,17 @@
+.game-tile-back { 
+    background: grey;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.game-tile-win { 
+    background: green;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.game-tile-lose { 
+    background: red;
+    border: 2px solid black;
+    border-radius: 5px;
+}

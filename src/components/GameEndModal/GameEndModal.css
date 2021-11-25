@@ -1,0 +1,13 @@
+.end-modal-container {
+    position: absolute;
+    width: 30%;
+    height: 25%;
+    left: 35%;
+    top: 37%;
+    background: paleturquoise;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}

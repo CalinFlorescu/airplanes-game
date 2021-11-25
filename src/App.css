@@ -1,0 +1,29 @@
+.app-container {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  background: papayawhip;
+}
+
+.app-score {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.app-game-board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+}
+
+.app-score-history {
+  width: 25%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
